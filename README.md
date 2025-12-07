@@ -22,6 +22,3 @@ I turn raw, messy datasets into structured insights and collaborate with ML engi
 
 EDA · SQL · Python (pandas, numpy, scikit-learn) · Dashboarding · Research analytics
 
-📫 How to reach me
-
-Email: msokolova95@mail.ru
